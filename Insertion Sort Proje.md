@@ -13,9 +13,9 @@
 
 ## Çözümleme Aşamaları: 
 
-## 1. Soru
+# 1. Soru
 
-+ [22,27,16,2,18,6] sayi dizisi için intertion sort turune gore asamalarini yazacağız
++ [22,27,16,2,18,6] sayı dizisi için intertion sort türüne göre asamalarini yazacağız
 
     +   22 sayisindan sonraya siralamayi gruplandirmak adina | sembolu kullandigimizi varsayalim. 
 
@@ -67,11 +67,11 @@ Altinci Gecis: [2,16,18,22,27,6|] altinci sayimiz 6, soluna bakarak ayni islemle
 Final dizi siramiz: [2,6,16,18,22,27] olmus olur. 
 
 
-2. Soru 
+# 2. Soru 
 
 Big o notation gösterimi big o gösterimi O(n^2)
 
-3. Soru
+# 3. Soru
 Best Case: Dizi tamamen sirali bicimde ise ve her sayinin uzerinden sadece bir defa geciyor isek buna Best Case deriz bunu O(n) ile ifade ederiz.
 
 Bizim dizimiz icin best case [2, 6, 16, 18, 22, 27]
@@ -82,11 +82,11 @@ Bizim dizimiz icin Worst Case [27, 22, 18, 16, 6, 2]
 
 Average Case: Best Case ile Worst Case in ortalamasına Average case deriz. Average case elde etmek icin ayni sekilde O(n^2) kullaniriz.
 
-4. Soru 
+# 4. Soru 
 
-18 sayisi bu dizi icin  Average Case olarak degerlendirilir dizi siralandıgında tam ortadadir.
+# 18 sayisi bu dizi icin  Average Case olarak degerlendirilir dizi siralandıgında tam ortadadir.
 
-5. Soru 
+# 5. Soru 
 
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sorta göre ilk 4 adımını yazınız.
 
